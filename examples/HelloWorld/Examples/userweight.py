@@ -1,0 +1,5 @@
+user_weight = input("enter your weight in pounds: ")
+print(type(user_weight))
+weight_kgs = 0.45359237 * float(user_weight)
+print(type(weight_kgs))
+print(weight_kgs)

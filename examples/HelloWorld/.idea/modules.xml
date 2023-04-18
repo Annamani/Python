@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../APIExamples/.idea/APIExamples.iml" filepath="$PROJECT_DIR$/../APIExamples/.idea/APIExamples.iml" />
+      <module fileurl="file://$USER_HOME$/Downloads/Birthday+Wisher+(Day+32)+start/.idea/Birthday+Wisher+(Day+32)+start.iml" filepath="$USER_HOME$/Downloads/Birthday+Wisher+(Day+32)+start/.idea/Birthday+Wisher+(Day+32)+start.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../BirthdayWishEmail/.idea/BirthdayWishEmail.iml" filepath="$PROJECT_DIR$/../BirthdayWishEmail/.idea/BirthdayWishEmail.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../CoffeMachineProject/.idea/CoffeMachineProject.iml" filepath="$PROJECT_DIR$/../CoffeMachineProject/.idea/CoffeMachineProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Day-29/.idea/Day-29.iml" filepath="$PROJECT_DIR$/../Day-29/.idea/Day-29.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Day-30-ExceptionsAndErrors/.idea/Day-30-ExceptionsAndErrors.iml" filepath="$PROJECT_DIR$/../Day-30-ExceptionsAndErrors/.idea/Day-30-ExceptionsAndErrors.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Day_27/.idea/Day_27.iml" filepath="$PROJECT_DIR$/../Day_27/.idea/Day_27.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../FileHAndling/.idea/FileHAndling.iml" filepath="$PROJECT_DIR$/../FileHAndling/.idea/FileHAndling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/HelloWorld.iml" filepath="$PROJECT_DIR$/.idea/HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Inheritance/.idea/Inheritance.iml" filepath="$PROJECT_DIR$/../Inheritance/.idea/Inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Listcomprehension/.idea/Listcomprehension.iml" filepath="$PROJECT_DIR$/../Listcomprehension/.idea/Listcomprehension.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../MailMerge/.idea/MailMerge.iml" filepath="$PROJECT_DIR$/../MailMerge/.idea/MailMerge.iml" />
+      <module fileurl="file://$USER_HOME$/Downloads/NATO-alphabet-start/.idea/NATO-alphabet-start.iml" filepath="$USER_HOME$/Downloads/NATO-alphabet-start/.idea/NATO-alphabet-start.iml" />
+      <module fileurl="file://$USER_HOME$/Downloads/NATOPhoneticAlphabet/.idea/NATOPhoneticAlphabet.iml" filepath="$USER_HOME$/Downloads/NATOPhoneticAlphabet/.idea/NATOPhoneticAlphabet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../PongGame/.idea/PongGame.iml" filepath="$PROJECT_DIR$/../PongGame/.idea/PongGame.iml" />
+      <module fileurl="file://$USER_HOME$/Downloads/Quiz_Appler_start/.idea/Quiz_Appler_start.iml" filepath="$USER_HOME$/Downloads/Quiz_Appler_start/.idea/Quiz_Appler_start.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ReadCSVDataexample/.idea/ReadCSVDataExample.iml" filepath="$PROJECT_DIR$/../ReadCSVDataexample/.idea/ReadCSVDataExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../TurtleCrossing/.idea/TurtleCrossing.iml" filepath="$PROJECT_DIR$/../TurtleCrossing/.idea/TurtleCrossing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../TurtleExample/.idea/TurtleExample.iml" filepath="$PROJECT_DIR$/../TurtleExample/.idea/TurtleExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../UDemyCourse/.idea/UDemyCourse.iml" filepath="$PROJECT_DIR$/../UDemyCourse/.idea/UDemyCourse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../day-16-start/.idea/day-16-start.iml" filepath="$PROJECT_DIR$/../day-16-start/.idea/day-16-start.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../day-17/.idea/day-17.iml" filepath="$PROJECT_DIR$/../day-17/.idea/day-17.iml" />
+      <module fileurl="file://$USER_HOME$/Downloads/oop-coffee-machine-start/.idea/oop-coffee-machine-start.iml" filepath="$USER_HOME$/Downloads/oop-coffee-machine-start/.idea/oop-coffee-machine-start.iml" />
+      <module fileurl="file://$USER_HOME$/Downloads/pomodoro-start/.idea/pomodoro-start.iml" filepath="$USER_HOME$/Downloads/pomodoro-start/.idea/pomodoro-start.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../snakeGame/.idea/snakeGame.iml" filepath="$PROJECT_DIR$/../snakeGame/.idea/snakeGame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../us-games-start-quiz/.idea/us-games-start-quiz.iml" filepath="$PROJECT_DIR$/../us-games-start-quiz/.idea/us-games-start-quiz.iml" />
+    </modules>
+  </component>
+</project>

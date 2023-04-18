@@ -1,0 +1,10 @@
+print("Hello Annamani Kamma!")
+print("O-----")
+print(" ||||")
+print('$' * 5)
+print("   ---  ")
+print(' /     \ ')
+print('|       | ')
+print(' \     / ')
+print('   ---  ')
+#this is sample comment in python
