@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Conditional example </title>
+    <script>
+        var jsMarks = parseInt(prompt("Enter marks in JavaScript: "));
+        var JavaMarks = parseInt(prompt("Enter marks in JAVA: "));
+        var dotnetMarks = parseInt(prompt("Enter marks in .Net: "));
+        var sum;
+        sum=jsMarks+JavaMarks+dotnetMarks;
+        document.write("Total Marks : "+sum+"</br>");
+        var avg=sum/3;
+        document.write("Average value is : "+avg+"</br>");
+        if(jsMarks>=35 && JavaMarks>=35 &&dotnetMarks>=35){
+            document.write("Student is Passed");
+            if(avg>69){
+                document.write("Grade: A");
+            }
+            else if (avg>=60 && avg <=69){
+                document.write("Grade: B");
+            }
+            else if (avg>=35 && avg <=59){
+                document.write("Grade: C");
+            }
+        }
+        else{
+            document.write("Student is failed");
+        }
+    </script>
+</head>
+<body>
+    
+</body>
+</html>
