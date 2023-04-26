@@ -1,0 +1,25 @@
+<html>
+    <head>
+        <title>Mouse Event Assignment</title>
+        <script>
+	function handleMouseDownEvent(x){
+		x.style.color = "red";
+		x.style.backgroundColor="yellow";
+		x.innerHTML = "MOUSEDOWN";
+
+	}
+
+	function handleMouseUpEvent(y){
+		y.style.color = "yellow";
+		y.style.backgroundColor="blue";
+		y.innerHTML = "MOUSEUP";
+
+	}
+	
+        </script>
+
+    </head>
+    <body>
+        <marquee onmousedown="handleMouseDownEvent(this)" onmouseup="handleMouseUpEvent(this)"> Mouse Down/Mouse Up </marquee>
+    </body>
+</html>
