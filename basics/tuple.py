@@ -1,0 +1,6 @@
+tup=(21,23,34,45,46,56,67,68,89,90)
+print(tup)
+print(tup[1])
+print(tup[0:])
+print(tup[:-1])
+print(len(tup))
