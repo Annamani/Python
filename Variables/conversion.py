@@ -1,2 +1,5 @@
 print(bin(8))
 print(0b0101)
+print(oct(25))
+print(hex(25))
+print(hex(12))
