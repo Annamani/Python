@@ -6,3 +6,4 @@ print(hex(12))
 print(0xf)
 print(bin(31))
 print(bin(52))
+print(0b110011010)    #2+8+16+128+256
