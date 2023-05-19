@@ -8,3 +8,7 @@ x=12
 y=13
 z=x & y
 print(z)
+a=25
+b=40
+c=a|b
+print(c)
