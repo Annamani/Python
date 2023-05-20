@@ -11,3 +11,6 @@ print(z)
 # Trignometry functions
 print(m.cos(45))
 
+# Exponential
+print(m.e)
+
