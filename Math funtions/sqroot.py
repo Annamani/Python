@@ -4,4 +4,6 @@ print(math.sqrt(78))
 x=2.1
 print(math.floor(x))
 print(math.ceil(x))
+y = pow(4, 3)
+print(y)
 
