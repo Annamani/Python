@@ -22,9 +22,10 @@ while k < 10:
   print(k)
 
 # Else stmt
-i = 1
-while i < 6:
-  print(i)
-  i += 1
+l = 1
+print("Else statement")
+while l < 6:
+  print(l)
+  l += 1
 else:
   print("i is no longer less than 6")
