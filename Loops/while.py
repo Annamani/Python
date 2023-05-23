@@ -20,3 +20,5 @@ while k < 10:
   if k == 3:
     continue
   print(k)
+
+# Else stmt
