@@ -12,3 +12,9 @@ for x in fruits:
   if x == "banana":
     break
   print(x)
+
+# Continue
+for x in fruits:
+  if x == "banana":
+    continue
+  print(x)
