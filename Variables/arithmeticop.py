@@ -21,3 +21,6 @@ print ('Modulo: ', a % b)
 
 # a to the power b
 print ('Power: ', a ** b)   
+
+#add stings
+print(" Annamani "+ "Kamma")
